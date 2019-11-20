@@ -21,7 +21,7 @@ const list = [
 ];
 
 // add comment
-const test = "hi";
+// remove const var
 
 const isSearched = searchTerm => item =>
   item.title.toLowerCase().includes(searchTerm.toLowerCase());
