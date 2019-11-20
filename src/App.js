@@ -21,6 +21,7 @@ const list = [
 ];
 
 // add comment
+// add more comments
 
 const isSearched = searchTerm => item =>
   item.title.toLowerCase().includes(searchTerm.toLowerCase());
